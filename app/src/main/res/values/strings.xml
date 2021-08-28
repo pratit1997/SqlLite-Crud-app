@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SqlLiteProject</string>
+    <string name="UserName">Name</string>
+    <string name="ContactPhone">Phone Number</string>
+    <string name="Snn">SNN</string>
+    <string name="Address">Address</string>
+</resources>
